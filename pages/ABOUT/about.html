@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Ford</title>
+    <link rel="stylesheet" href="/style.css">
+    <style>
+        footer {
+            background-color: #060920;
+            color: white;
+            padding: 20px;
+            text-align: center;
+     
+        }
+        body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;  
+}
+
+        footer .footer-section h4 {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        footer .footer-section p {
+            margin: 5px 0;
+            line-height: 1.5;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        .yellow-bg-darkblue-text {
+            background-color: #ffda08;
+            color: darkblue;
+            border-radius: 10px;
+            padding: 10px;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .yellow-bg-darkblue-text:hover {
+            background-color: #00008b;
+            color: white;
+        }
+
+        .yellow-bg-darkblue-text a {
+            color: darkblue;
+            text-decoration: none;
+        }
+
+        .yellow-bg-darkblue-text:hover a {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Ford Company</h1>
+        <nav>
+            <a href="/pages/HOME/index.html">Home</a>
+            <a href="/pages/ABOUT/about.html">About</a>
+            <a href="/pages/PRODUCT/products.html">Products</a>
+            <a href="/pages/CONTACT/assets/">Contact</a>
+            <div class="hamburger" id="hamburger">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="side-menu" id="side-menu">
+        <ul class="nav-links">
+            <li><a href="/pages/HOME/index.html">Home</a></li>
+            <li><a href="/pages/ABOUT/about.html">About</a></li>
+            <li><a href="/pages/PRODUCT/products.html">Products</a></li>
+            <li><a href="/pages/CONTACT/contact.html">Contact</a></li>
+        </ul>
+    </div>
+
+    <main>
+        <div class="about-section">
+            <div class="about-content">
+                <h2>About Us</h2>
+                <p>Ford Company has been innovating the automobile industry since its inception. We build cars that inspire confidence and fuel your passion for driving. With cutting-edge technology, exceptional performance, and stylish designs, Ford continues to lead the way in transforming the future of driving.</p>
+                <p>Whether you're looking for a powerful sports car, an eco-friendly hybrid, or a family-friendly SUV, Ford offers a range of vehicles that suit every lifestyle. Experience the power, performance, and passion that only Ford can deliver.</p>
+                <a href="/pages/PRODUCT/products.html">
+                    <button class="cta-button">Explore Our Products</button>
+                </a>
+            </div>
+            <div class="about-image">
+                <img src="/pages/ABOUT/assets/img/abt1.jpg" alt="Ford Cars">
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-section">
+            <h4>Customer Support</h4>
+            <p>Business hours:<br>
+                Monday to Friday, excluding holidays,<br>
+                8 am to 5 pm<br>
+                Saturday: 8 am to 12 pm<br>
+                Sunday: Closed</p>
+        </div>
+        <div class="footer-section">
+            <h4>Request a Quote</h4>
+            <p class="yellow-bg-darkblue-text">
+                <a href="/pages/CONTACT/contact.html">See pricing from your local dealer</a>
+            </p>
+        </div>
+        <div class="footer-section">
+            <h4>Business Address</h4>
+            <p>Floodway, Cainta Rizal 1900</p>
+        </div>
+        <div class="footer-section">
+            <h4>Contact Person</h4>
+            <p>eljaydivina0206@gmail.com<br>09369555197</p>
+        </div>
+    </footer>
+
+    <script src="/assets/js/script.js"></script>
+</body>
+</html>

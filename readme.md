@@ -9,21 +9,19 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Ford Car Company </h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Welcome to Ford Car Company, where we drive innovation, performance, and style. Our legacy of building world-class vehicles is matched only by our commitment to providing our customers with an exceptional experience. Explore our website to learn more about our history, the powerful vehicles we offer, and how you can connect with us.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
-
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
-
+![](https://visit-counter.vercel.app/counter.png?page=Eljay02/WD-DIVINA_FINAL_TD21)
+[![wakatime](https://wakatime.com/badge/user/22ce9f38-fd1d-4e5d-8044-a0525df7c605/project/8e6c75b7-9aa8-4afb-b682-6ef9296fb968.svg)](https://wakatime.com/badge/user/22ce9f38-fd1d-4e5d-8044-a0525df7c605/project/8e6c75b7-9aa8-4afb-b682-6ef9296fb968)
 ---
 
 <br />
@@ -36,9 +34,7 @@
     <li>
       <a href="#overview">Overview</a>
       <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
+        
         <li>
           <a href="#technology">Technology</a>
         </li>
@@ -56,23 +52,11 @@
 ---
 
 ## Overview
+Project: A website for a car company featuring four landing pages: Home, About, Product, and Contact.
+Purpose: To provide essential information about the company, showcase its products, and offer contact details in a user-friendly format.
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
-### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,6 +101,11 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
+| Ford Car Company Website   | to expand knowledge on creating a website | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Ford Logo | To Display at home page  |https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F26296%2Fford-logo-emblem-hd-png&psig=AOvVaw2YH1ABpDRpBOy3qdE1yEVv&ust=1732699294926000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCNiMhoPW-YkDFQAAAAAdAAAAABAE|
+| Ford building | To Display at about us  | https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnbc.com%2F2020%2F04%2F30%2Fcoronavirus-ford-plans-health-screenings-temperature-checks-to-bring-office-workers-back-beginning-in-june.html&psig=AOvVaw0QoJMiSDBMLu2mtDcO8o71&ust=1732699434671000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCIDvgcfW-YkDFQAAAAAdAAAAABAE|
+| Ford Mustang | To Dispaly at product page  |https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.topgear.com.ph%2Fbuyers-guide%2Fcars%2Fford%2Fmustang&psig=AOvVaw3xE5RQTp41_KeNWLolYTdt&ust=1732699703135000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCMjqv8nX-YkDFQAAAAAdAAAAABAE |
+| Ford F-150 | To Display at PRODUCT PAGE  |https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ford.com%2Ftrucks%2Ff150%2F&psig=AOvVaw1rTQMTpSNK9qFLfxqGGN0c&ust=1732699783313000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCOiolPDX-YkDFQAAAAAdAAAAABAE |
+| Ford Escape | To Display at PRODUCT PAGE  | https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carsguide.com.au%2Fford%2Fescape&psig=AOvVaw0zK1AULaAnnkfCi4oCnDNe&ust=1732699893341000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCKCi-aXY-YkDFQAAAAAdAAAAABAE |
+
