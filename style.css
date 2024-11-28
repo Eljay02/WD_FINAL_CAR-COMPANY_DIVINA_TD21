@@ -603,7 +603,7 @@ header nav a:hover {
     align-items: center;
     justify-content: flex-start;
     height: calc(100vh - 100px);
-    background: url("/pages/HOME/assets/img/FORD\ CAR.png") right center/contain no-repeat;
+    background: url("./pages/HOME/assets/img/FORD\ CAR.png") right center/contain no-repeat;
     color: white;
     padding: 0 10%;
 }
@@ -772,7 +772,7 @@ header nav a:hover {
     padding: 60px 10%;
     gap: 40px;
     align-items: center;
-    background: url('/pages/CSS/style.css') no-repeat center center/cover;
+    background: url('/style.css') no-repeat center center/cover;
  
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
@@ -820,7 +820,7 @@ header nav a:hover {
     font-size: 1.1rem;
     border-radius: 5px;
     cursor: pointer;
-    transition: transform 0.2s, background 0.3s ease;
+   
 }
 
 .cta-button:hover {
