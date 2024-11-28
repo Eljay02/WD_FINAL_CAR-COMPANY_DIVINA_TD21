@@ -1077,3 +1077,35 @@ body, h1, p, a, button, input {
         width: 100%;  /* Ensure each card takes up full column width */
     }
 }
+
+.hero-content a button {
+    background-color: #FFD700; /* Golden button color */
+    color: #060920;  /* Dark text color */
+    padding: 12px 30px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hero-content a button:hover {
+    background-color: #e6b800;  /* Slightly darker golden color on hover */
+    transform: scale(1.05);  /* Slight zoom effect on hover */
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5); /* Golden glow effect */
+}
+
+.hero-content a button:active {
+    transform: scale(0.98); /* Button presses down slightly */
+    box-shadow: 0 0 5px rgba(255, 215, 0, 0.7); /* Slight shadow effect on click */
+}
+
+.hero-content a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.hero-content a button {
+    display: inline-block;
+    margin-top: 20px;
+}
